@@ -1,0 +1,23 @@
+{
+  "name": "fhjebru-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhjebru/inspiration.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"fhjebru": "^1.0.0",
+	"tcale874-one": "^1.0.0",
+  	"jokhcs": "^1.0.0",
+	"jokhcs-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
